@@ -1,2 +1,2 @@
-# scraperBase
-This is just a scraper base for quick cloning to build custom web scrapers
+# scraper-WowGamePedia
+This scraper will pull various images and information from WoW-GamePedia to help me build my classic forum
